@@ -348,7 +348,7 @@
 
     <changeSet id="postbahmni-2021-03-12-19-43" author="rbuisson">
 		<comment>
-			Set concept 'Yes' UUID
+			Set concept 'Occupation' UUID
 		</comment>
 		<update tableName="concept">
 			<column name="uuid" value="050227fc-64bf-444f-b43f-8b144dc00757"/>
@@ -357,7 +357,7 @@
 	</changeSet>
     <changeSet id="postbahmni-2021-03-12-19-43" author="rbuisson">
 		<comment>
-			Set concept 'Yes' UUID
+			Set concept 'Religion' UUID
 		</comment>
 		<update tableName="concept">
 			<column name="uuid" value="1004332e-dd10-4f60-bb9a-9dccf88dac3d"/>
