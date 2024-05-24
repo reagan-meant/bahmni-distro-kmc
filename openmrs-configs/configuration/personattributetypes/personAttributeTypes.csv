@@ -1,5 +1,5 @@
 Uuid,Void/Retire,Name,Description,Format,Foreign uuid,Searchable,Edit privilege,_order:1000
-c3bcd296-eb82-4451-a4b4-eedd1d5f322f,,phoneNumber,Person Telephone constact(1),java.lang.String,,TRUE,,
+056c601c-734e-4e41-99b3-e0a586bd6d04,,phoneNumber,Phone Number,java.lang.String,,TRUE,,
 a797b0dc-7ab5-487b-9f01-ef5bb9b7469a,,occupation,Profession,org.openmrs.Concept,050227fc-64bf-444f-b43f-8b144dc00757,,,
 6a7da305-b5f2-4484-a0ed-ad59f4de8110,,religion,Religion,org.openmrs.Concept,1004332e-dd10-4f60-bb9a-9dccf88dac3d,,,
 b47a9c55-4d28-4549-a223-b16d54b8fbbf,,contactPersonRelationship,Relationship to contact person,org.openmrs.Concept,ee63d1f2-095a-4d28-ba95-fbc933666070,,,
