@@ -1,4 +1,9 @@
 Uuid,Void/Retire,Name,Description,_version:1
 ,,OPD,Visit for Out patient,
-,,EMERGENCY,Visit for emergency patients ,
-,True,LAB VISIT,Visits for lab visit by patient when the tests are not ordered through OpenMRS,
+,,EMERGENCY,"Visit for emergency patients ",
+,,IPD,Visits for lab visit by patient when the tests are not ordered through OpenMRS,
+35ba9aff-901c-49dc-8630-a59385480d18,,ANTENATAL,Antenatal Visit,
+c4643116-8a61-499f-b62b-ff9375db0b7d,,VACCINATION,Visits for vaccination services,
+776d66ba-c270-407a-83d2-1a6516a6aba4,,OBSTETRICS/MATERNITY,Visits for Obstetrics or Maternity,
+b9ba7b27-e64b-44d1-b4c5-2ced77f477d0,,GENERAL CONSULTATION,General Consultation Visit,
+929fb1a1-d801-4b56-9d15-503685a6c49d,,Lab,Lab Visit,

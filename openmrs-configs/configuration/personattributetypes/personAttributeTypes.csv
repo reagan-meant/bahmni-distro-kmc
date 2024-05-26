@@ -1,4 +1,7 @@
 Uuid,Void/Retire,Name,Description,Format,Foreign uuid,Searchable,Edit privilege,_order:1000
-,TRUE,givenNameLocal,,,,,,
-,,phoneNumber,Phone Number,java.lang.String,,yes,,
-,,alternatePhoneNumber,Alternate Phone Number,java.lang.String,,yes,,
+056c601c-734e-4e41-99b3-e0a586bd6d04,,phoneNumber,Phone Number,java.lang.String,,TRUE,,
+a797b0dc-7ab5-487b-9f01-ef5bb9b7469a,,occupation,Profession,org.openmrs.Concept,050227fc-64bf-444f-b43f-8b144dc00757,,,
+6a7da305-b5f2-4484-a0ed-ad59f4de8110,,religion,Religion,org.openmrs.Concept,1004332e-dd10-4f60-bb9a-9dccf88dac3d,,,
+b47a9c55-4d28-4549-a223-b16d54b8fbbf,,contactPersonRelationship,Relationship to contact person,org.openmrs.Concept,ee63d1f2-095a-4d28-ba95-fbc933666070,,,
+d7a52bd1-77dd-4f71-a5d0-92848a746014,,contactPersonName,Next of Kin,java.lang.String,,,,
+62844ea0-8be6-4a12-9471-cbb1f060d78b,,contactPersonPhoneNumber,Next of Kin Contact,java.lang.String,,,,

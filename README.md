@@ -6,6 +6,8 @@ Build the configuration image using the command while replacing ${CONFIG_IMAGE_T
 
 ## Run distribution
 
+Unzip the database under sql
+
 `docker compose up`
 
 ## Access server

@@ -345,4 +345,23 @@
             1, now(), NULL, NULL, NULL, uuid());
         </sql>
     </changeSet>
+
+    <changeSet id="postbahmni-2024-03-12-19-41" author="reaganmeant">
+		<comment>
+			Set concept 'Occupation' UUID
+		</comment>
+		<update tableName="concept">
+			<column name="uuid" value="050227fc-64bf-444f-b43f-8b144dc00757"/>
+			<where>uuid='1542AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'</where>
+		</update>
+	</changeSet>
+    <changeSet id="postbahmni-2024-03-12-19-43" author="reaganmeant">
+		<comment>
+			Set concept 'Religion' UUID
+		</comment>
+		<update tableName="concept">
+			<column name="uuid" value="1004332e-dd10-4f60-bb9a-9dccf88dac3d"/>
+			<where>uuid='162929AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'</where>
+		</update>
+	</changeSet>
 </databaseChangeLog>
