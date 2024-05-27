@@ -100,7 +100,7 @@
         "prescriptionPrint": {
           "title": "Bahmni",
           "header": "Prescriptions",
-          "logo": "../images/bahmniLogo.png"
+          "logo": "../images/KMC-logo.png"
         }
       },
       "radiologyOrders": {

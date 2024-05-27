@@ -5,7 +5,7 @@
         "printing": {
             "title": "Bahmni",
             "header": "Visit",
-            "logo": "../images/bahmniLogo.png"
+            "logo": "../images/KMC-logo.png"
         },
         "defaultSections": true,
         "defaultSectionsExcludes": ["admissionDetails"],
@@ -94,7 +94,7 @@
         "printing": {
             "title": "Bahmni",
             "header": "Patient Visit Summary",
-            "logo": "../images/bahmniLogo.png"
+            "logo": "../images/KMC-logo.png"
         },
         "sections": {
             "Patient Information": {
