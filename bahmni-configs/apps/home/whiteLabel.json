@@ -1,11 +1,11 @@
 {
   "homePage": {
-    "header_text": "<b>WELCOME TO<br />KMC BAHMNI EMR",
-    "logo": "/bahmni/images/bahmniLogoFull.png",
+    "header_text": "<b>WELCOME TO<br />KAMWOKYA MED CARE CENTER EMR",
+    "logo": "/bahmni/images/KMC-logo.png",
     "title_text": " "
   },
   "loginPage": {
-    "logo": "/bahmni/images/bahmniLogoFull.png",
+    "logo": "/bahmni/images/KMC-logo.png",
     "showHeaderText": true,
     "showTitleText": false
   },
@@ -21,7 +21,7 @@
       "link": "/bahmni/home"
     },
     {
-      "enabled": false,
+      "enabled": true,
       "name": "openelis",
       "title": "Laboratory",
       "logo": "/bahmni/images/lab.png",
