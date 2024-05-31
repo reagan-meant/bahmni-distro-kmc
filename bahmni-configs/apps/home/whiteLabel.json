@@ -1,11 +1,11 @@
 {
   "homePage": {
-    "header_text": "<b>WELCOME TO<br />KAMWOKYA MEDCARE CENTER EMR",
-    "logo": "/bahmni/images/bahmniLogoFull.png",
+    "header_text": "<b>WELCOME TO<br />KAMWOKYA MED CARE CENTER EMR",
+    "logo": "/bahmni_config/openmrs/apps/home/KMC-logo.png",
     "title_text": " "
   },
   "loginPage": {
-    "logo": "/bahmni/images/bahmniLogoFull.png",
+    "logo": "/bahmni_config/openmrs/apps/home/KMC-logo.png",
     "showHeaderText": true,
     "showTitleText": false
   },

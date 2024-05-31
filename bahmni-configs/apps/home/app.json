@@ -3,7 +3,7 @@
   "extensionPoints": [
     {
       "id": "org.bahmni.home.dashboard",
-      "description": "KMC Bahmni Home Page"
+      "description": "Kamwokya Med Care Center EMR"
     }
   ]
 }
