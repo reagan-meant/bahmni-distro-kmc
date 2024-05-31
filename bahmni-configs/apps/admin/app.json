@@ -3,7 +3,7 @@
         "extensionPoints": [
             {
                 "id": "org.bahmni.admin.dashboard",
-                "description": "KMC Bahmni Admin Page"
+                "description": "KMC Admin Page"
             }
         ]
 

@@ -1,5 +1,6 @@
     {
     "MODULE_LABEL_REGISTRATION_KEY": "Registration",
+    "BAHMNI_PAGE_TITLE_KEY": "KMC EMR",
     "MODULE_LABEL_CLINICAL_KEY": "Clinical",
     "MODULE_LABEL_INPATIENT_KEY": "InPatient",
     "MODULE_LABEL_RADIOLOGY_UPLOAD_KEY": "Radiology Upload",
